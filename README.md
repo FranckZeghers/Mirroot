@@ -57,4 +57,3 @@ Le script lure_monitor.sh est configuré avec des permissions restrictives (lect
 ## Problèmes à résoudre
 
 * L'utilisation du CPU trop élevée
-* Enlever l'user admin par défaut
